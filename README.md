@@ -3,7 +3,7 @@
 ## I am Raphael Fontoura. 
 I'm a *Full Stack Developer* with more emphasis on the **back-end** 💻. 
 
-#### I like to take problems, understand them and break them into small pieces (like legos) and then build a solution to them. That's what I do, and I think it's amazing. Here is the magic of ✨ <>programming</> ✨.
+#### I like to take problems, understand them and break them into small pieces (like legos) and then build a solution to them. That's what I do, and I think it's amazing. That's the magic of ✨ <>programming</> ✨.
 
 <br />
 
