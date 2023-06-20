@@ -9,7 +9,7 @@ I'm a *Full Stack Developer* with more emphasis on the **back-end** 💻.
 
 <!-- stats -->
 <div align="center" id="info-flex" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfontoura&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfontoura&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfontoura&layout=compact&langs_count=8&theme=midnight-purple&hide=PLpgSQL"/>
 </div>
 
