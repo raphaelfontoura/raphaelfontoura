@@ -1,9 +1,31 @@
 
 ### Hi there 👋
-## I am Raphael Fontoura. 
-I'm a *Full Stack Developer* with more emphasis on the **Back-end** 💻. 
 
-#### I like to take problems, understand them and break them into small pieces (like legos) and then build a solution to them. That's what I do, and I think it's amazing. That's the magic of ✨ <>programming</> ✨.
+## I am Raphael Fontoura
+
+I'm a *Full Stack Developer* with a strong focus on the **Back-end** 💻 — working with **Java, Kotlin and the Spring ecosystem**, building scalable and reliable systems.
+
+#### I like to take problems, understand them and break them into small pieces — like legos.
+
+Then I turn those pieces into well-structured solutions using **microservices, clean architecture and distributed systems**.
+
+#### What I do:
+
+* Build **scalable microservices** (Java/Kotlin + Spring Boot)
+* Design systems with **DDD, Clean Architecture and SOLID principles**
+* Work with **cloud-native environments** (Docker, Kubernetes, AWS)
+* Implement **CI/CD pipelines and observability stacks**
+* Integrate systems through **APIs and messaging**
+
+#### A bit about my journey:
+
+I have **20+ years in tech**, starting from electronics and telecom, which gave me a strong foundation in **networks, infrastructure and distributed systems thinking** — something I bring into software every day.
+
+#### How I see programming:
+
+For me, it's about more than code — it's about **understanding complexity and turning it into something simple, reliable and scalable**.
+
+✨ That’s the magic of ✨ <>programming</> ✨
 
 <br />
 
